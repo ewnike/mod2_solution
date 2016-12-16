@@ -1,0 +1,8 @@
+title: Mod2 solution
+description: Homework Assignment 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
